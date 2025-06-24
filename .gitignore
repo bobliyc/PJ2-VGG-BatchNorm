@@ -1,0 +1,10 @@
+checkpoints/
+results/
+*.ckpt
+*.pth
+*.pt
+*.DS_Store
+*.ipynb_checkpoints/
+.idea/
+__pycache__/
+
